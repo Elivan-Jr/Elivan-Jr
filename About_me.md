@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Elivan-Jr
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python
+- 💞️ I'm looking to contribute my learning to the data science community.
+- 📫 How to reach me: linkedin.com/in/elivanjunior/
